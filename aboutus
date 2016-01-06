@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style/style.css">
+    <title>Welcome to Papa Dino's</title>
+    <div class ="navigation">
+        <a href="index.html"><img src="images/logo.jpg" alt="papa dino's logo"></a>
+            <nav>
+                    <ul>
+                        <li>
+                            <a href="menu.html">Menu</a>
+                        </li>
+                        <li>
+                            <a href ="aboutus.html">About Papa Dino's</a>
+                        </li>
+                        <li>
+                            <a href="comments.html">Comments</a>
+                        </li>
+                    </ul>
+            </nav
+    </div>
+    </head>
+<body>
+        </body>
+        
+      <div class="authornote">
+        <footer>&copy Brian Davis 2016</footer>
+            </div>
+        </html>
